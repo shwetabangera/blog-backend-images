@@ -1,6 +1,15 @@
 # blog-backend-images
+    This is simple blog application which is used to get,create,delete the blog along with its image and the related links of the blog.
+    To run and use this repository do the following things:
 
+    First make the empty folder and open the folder in the terminal and clone this repository by using the folowing command :-
 
+    git clone https://github.com/shwetabangera/blog-backend-images.git
+
+    After cloning the repository use the following command to install all the dependencies this repository use:
+    
+     npm init
+     
     After doing the above steps run the application server by using the following command :-
 
     npm run dev
